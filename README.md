@@ -1,3 +1,3 @@
 # joke-teller
 
-![](images/joke-teller.gif)
+![](img/joke-teller.gif)
